@@ -1,0 +1,21 @@
+# Personal data — never commit these
+cookies/
+data/
+resume/
+logs/
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ruff_cache/
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
